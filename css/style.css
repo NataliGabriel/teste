@@ -1,0 +1,30 @@
+.imagem-caderno{
+background-image: url("../imgs/caderno2.png");
+background-repeat: no-repeat;
+background-size: auto;
+background-position: center;
+height: 80vh;
+object-fit: cover;
+}
+
+.cabecalho{
+    width: 100%;
+    float: left;
+    padding: 50px 8%;
+    background-color: #d6945b;
+}
+
+.LOGO {
+    height: 128px;
+    width: 128px;
+    float: left;
+    background: url("../imgs/piano_icon.png");
+    background-repeat: no-repeat;
+    
+}
+
+.titulo{
+    margin-top: 45px; 
+    font-style: italic;
+   
+}
